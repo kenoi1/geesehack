@@ -92,3 +92,29 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+*{
+  background-color: #edceb0;
+}
+
+.wrapper{
+  padding: 30;
+
+  h1{
+    color: #87584A;
+    font-size: 40px;
+  }
+
+  body{
+    color: white;
+  }
+  
+  span {
+    color: white;
+    font-size: 80;
+  }
+  *{
+    color: #87584A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+}

@@ -5,6 +5,10 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ui/sidebar";
+import Image from 'next/image';
+
+import logo from "./assets/goose+human.png";
+
 
 export default function Page() {
   return (
@@ -18,11 +22,12 @@ export default function Page() {
       <h1 className="text-5xl font-bold text-accent">
         <span className="text-highlight">NaviGoose</span>
       </h1>
-    </div>
-    <div className="wrapper flex flex-col justify-center">
       <p className="text-lg text-secondary pt-4 md:pt-0">
         Navigate your way around mess-free with <span className="font-semibold text-accent">NaviGoose</span>
       </p>
+    </div>
+    <div>
+      <Image src={logo} alt="logo" className=" "/>
     </div>
   </div>
 
