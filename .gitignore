@@ -4,3 +4,4 @@ models
 venv
 runs
 exp10-new
+.env
