@@ -8,23 +8,30 @@ import {
 
 export default function Page() {
   return (
-    <SidebarProvider>
-      <AppSidebar />
-      <SidebarInset>
-        <header className="flex h-16 shrink-0 items-center gap-2 transition-[width,height] ease-linear group-has-[[data-collapsible=icon]]/sidebar-wrapper:h-12">
-          <div className="flex items-center gap-2 px-4">
-            <SidebarTrigger className="-ml-1" />
-          </div>
-        </header>
-        <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
-          <div className="grid auto-rows-min gap-4 md:grid-cols-3">
-            <div className="aspect-video rounded-xl bg-muted/50" />
-            <div className="aspect-video rounded-xl bg-muted/50" />
-            <div className="aspect-video rounded-xl bg-muted/50" />
-          </div>
-          <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min" />
-        </div>
-      </SidebarInset>
-    </SidebarProvider>
+    <div className="flex flex-1 flex-col gap-8 p-16 md:p-24">
+
+  <div className="grid gap-8 md:grid-cols-2">
+    <div className="wrapper flex flex-col justify-center">
+      <h1 className="text-3xl font-semibold text-primary">
+        Welcome to
+      </h1>
+      <h1 className="text-5xl font-bold text-accent">
+        <span className="text-highlight">NaviGoose</span>
+      </h1>
+    </div>
+    <div className="wrapper flex flex-col justify-center">
+      <p className="text-lg text-secondary pt-4 md:pt-0">
+        Navigate your way around mess-free with <span className="font-semibold text-accent">NaviGoose</span>
+      </p>
+    </div>
+  </div>
+
+  <div className="flex-1 mt-10 md:mt-16">
+    {/* cam */}
+  </div>
+
+  <div className="min-h-[80vh] flex-1 rounded-xl bg-muted/50 shadow-lg md:min-h-min transition-all duration-500" />
+</div>
+
   );
 }
