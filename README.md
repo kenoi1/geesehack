@@ -15,4 +15,4 @@ https://github.com/user-attachments/assets/c4c7003e-2ce5-40d2-a65f-5880c708a6ec
 
 
 # front-end:
-<img width="1235" alt="image" src="https://github.com/user-attachments/assets/fb7f43fb-0c72-4472-88cf-1f8707af7863" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0d94acbf-c46d-446c-ac7a-6795a73fa1f0" />
