@@ -9,10 +9,11 @@ https://github.com/user-attachments/assets/c4c7003e-2ce5-40d2-a65f-5880c708a6ec
 
 https://github.com/user-attachments/assets/fbdeea77-3834-4b17-b127-20f9dd97e379
 
-# dependencies for object detection:
+# project dependencies:
 - python3.9
 - pip install ultralytics
 - pytorch
+- openai (also key to .env)
 - other stuff in requirements.txt
 
 # supported obstacles:
