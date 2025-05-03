@@ -1,5 +1,5 @@
-![gallery](https://github.com/user-attachments/assets/bb2808a8-cf7a-4134-99d2-dbb86081465d)
-![image](https://github.com/user-attachments/assets/e1d6ac53-8ace-4788-bbeb-b82976ded88e)
+<img src="https://github.com/user-attachments/assets/bb2808a8-cf7a-4134-99d2-dbb86081465d" width="400"/>
+<img src="https://github.com/user-attachments/assets/e1d6ac53-8ace-4788-bbeb-b82976ded88e" width="400"/>
 
 # team members: Danya Cheng, Derek Lin, Tom Wang
 
