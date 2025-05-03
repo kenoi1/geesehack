@@ -1,5 +1,7 @@
-<img src="https://github.com/user-attachments/assets/bb2808a8-cf7a-4134-99d2-dbb86081465d" width="400"/>
-<img src="https://github.com/user-attachments/assets/e1d6ac53-8ace-4788-bbeb-b82976ded88e" width="400"/>
+<img src="https://github.com/user-attachments/assets/bb2808a8-cf7a-4134-99d2-dbb86081465d" width="300"/>
+<img src="https://github.com/user-attachments/assets/e1d6ac53-8ace-4788-bbeb-b82976ded88e" width="300"/>
+<img src="https://github.com/user-attachments/assets/c50d6e18-b6be-4104-9ecc-b71c6a27c1b6" width="300"/>
+
 
 # team members: Danya Cheng, Derek Lin, Tom Wang
 
