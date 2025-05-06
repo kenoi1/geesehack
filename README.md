@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/c50d6e18-b6be-4104-9ecc-b71c6a27c1b6" width="250"/>
 
 
-# team members: Danya Cheng, Derek Lin, Tom Wang
+### team members: Danya Cheng, Derek Lin, Tom Wang
 
 **read more about the project on our devpost!:** https://devpost.com/software/navigoose
 
